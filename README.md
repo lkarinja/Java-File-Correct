@@ -1,0 +1,3 @@
+# Java File Correct
+This was an old project from back in highschool.
+Used to be a work-in-progress Java project for fixing spelling of names in files... Or something like that...
